@@ -1,1 +1,5 @@
 # AI-Report-Maze-Runner
+ABSTRACT![image](https://github.com/ag5780/AI-Report-Maze-Runner/assets/103483674/059242d0-e18c-4163-a482-a61cc3bfdcc2)
+ The Maze Runner game is a game that requires a pathfinding algorithm to get to the destination with the shortest path. This algorithm is used in n NPC that will move from the start node to the destination node. However, the use of incorrect algorithms can affect the length of the computing process to find the shortest path. The longer the computing process, the longer the players have to wait. This study compared pathfinding algorithms A*, Dijkstra, and Breadth First Search(BFS) in the Maze Runner game. A comparison process of these algorithms was conducted by replacing the algorithm in the game by measuring the process time, the length of the path.The number of blocks played in the existing computing process. The results of this study recommend which algorithm is suitable to be applied in the Maze Runner Game.
+![image](https://github.com/ag5780/AI-Report-Maze-Runner/assets/103483674/4fa1c5ee-08f3-4dfe-a031-9acafb76a02b)
+
